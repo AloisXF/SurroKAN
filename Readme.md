@@ -25,8 +25,8 @@ keywords = {Video Anomaly Detection,Kolmogorov–Arnold Network,Surrogate Distil
 
   **Click to view the video:**
 
-  <a href="https://youtu.be/Byf7BgjJIq0" target="_blank">
-  <img src="media/Cover.png" 
+  <a href="https://youtu.be/NVZ2cJWpCsk" target="_blank">
+  <img src="Media/SurroKAN.png" 
        alt="Watch the video"
        width="400"
        style="border: 3px solid #333; border-radius: 8px;"
@@ -35,4 +35,4 @@ keywords = {Video Anomaly Detection,Kolmogorov–Arnold Network,Surrogate Distil
 
 # Architecture
 
-  <img src="media/Architecture.png" alt="Local Pic" width="700"/>
+  <img src="Media/Architecture.png" alt="Local Pic" width="700"/>
