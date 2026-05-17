@@ -1,19 +1,21 @@
-# AnomalyMamba
+# SurroKAN
 
-The source codes of "**Vision–Language Foundation Models with State-Space Temporal Reasoning for Urban Infrastructure Anomaly Detection**".
+The source codes of "**SurroKAN: Kolmogorov–Arnold Surrogate Distillation for Explainable Weakly Supervised Video
+Anomaly Detection in Urban Infrastructure**".
 
 To cite this work:
 
 ```
-@article{WANG2026104230,
-title = {Vision–Language Foundation Models with State-Space Temporal Reasoning for Urban Infrastructure Anomaly Detection},
-journal = {Computer-Aided Civil and Infrastructure Engineering},
-volume = {70},
-pages = {104230},
+@article{Li,
+title = {SurroKAN: Kolmogorov–Arnold Surrogate Distillation for Explainable Weakly Supervised Video
+Anomaly Detection in Urban Infrastructure},
+journal = {Advanced Engineering Informatics},
+volume = {},
+pages = {},
 year = {2026},
-issn = {1474-0346},
-author = {Xiaowen Tao,Qingyuan Li,Bing Zhu,Yinuo Wang,Jiayi Han,Peixing Zhang,Pengxiang Meng},
-keywords = {Video Anomaly Detection,Anomaly Recognition,Vision–Language Model,State Space Model,Weakly Supervised Learning,Urban Surveillance}
+issn = {},
+author = {Qingyuan Li,Yushun Lin,Xiaowen Tao,Yinuo Wang,Calvin Chang Liu,Yuze Liu},
+keywords = {Video Anomaly Detection,Kolmogorov–Arnold Network,Surrogate Distillation,Explainable Artificial Intelligence,Symbolic Regression,Urban Surveillance}
 }
 ```
 
