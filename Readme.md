@@ -14,7 +14,7 @@ volume = {},
 pages = {},
 year = {2026},
 issn = {},
-author = {Qingyuan Li,Yushun Lin,Xiaowen Tao,Yinuo Wang,Calvin Chang Liu,Yuze Liu},
+author = {Xiaowen Tao,Qingyuan Li,Yushun Lin,Yinuo Wang,Yuze Liu},
 keywords = {Video Anomaly Detection,Kolmogorov–Arnold Network,Surrogate Distillation,Explainable Artificial Intelligence,Symbolic Regression,Urban Surveillance}
 }
 ```
