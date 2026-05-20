@@ -35,4 +35,4 @@ keywords = {Video Anomaly Detection,Kolmogorov–Arnold Network,Surrogate Distil
 
 # Architecture
 
-  <img src="Media/Architecture.png" alt="Local Pic" width="700"/>
+  <img src="Media/architecture.pdf" alt="Local Pic" width="700"/>
